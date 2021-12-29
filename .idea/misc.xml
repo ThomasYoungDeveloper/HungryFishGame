@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/fish.xml" value="0.2125" />
         <entry key="app/src/main/res/drawable/round_button.xml" value="0.36875" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1646403242147923" />
       </map>
